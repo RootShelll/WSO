@@ -35,7 +35,7 @@ Follow the steps below to install and use WSO:
 
 Here are some examples of WSO's interface:
 
-![WSO Interface](https://raw.githubusercontent.com/RootShelll/WSO/main/images/screenshot1.png)
+![WSO Interface](https://raw.githubusercontent.com/RootShelll/WSO/refs/heads/main/WSO.png)
 
 ## 📂 Contributing
 
