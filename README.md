@@ -1,5 +1,10 @@
 # WSO (Web Shell by oRb) User Guide
 
+### Shell Login Password
+```bash
+R00t
+```
+
 ## 📋 What is WSO?
 
 WSO (Web Shell by oRb) is a popular PHP-based web shell used for **remote administration** and control of web servers. Although designed for system administrators and developers, it can be exploited by malicious users. Therefore, it is crucial to use such tools carefully and **only in authorized environments**.
