@@ -1,5 +1,7 @@
 # WSO (Web Shell by oRb) User Guide
 
+![WSO](https://r00t-shell.com/wp-content/uploads/2025/03/WSO.png)
+
 ### Shell Login Password
 ```bash
 R00t
